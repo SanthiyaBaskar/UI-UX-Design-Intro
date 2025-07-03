@@ -3,13 +3,6 @@
 This repository contains the certificate I received for completing an **Introductory UI/UX Design** course.
 
 ---
-
-## 📜 Certificate
-
-https://github.com/SanthiyaBaskar/UI-UX-Design-Intro/upload/main
-
----
-
 ## 🧠 What I Learned
 
 This course helped me understand the basics of UI/UX, including:
