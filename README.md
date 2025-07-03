@@ -6,7 +6,7 @@ This repository contains the certificate I received for completing an **Introduc
 
 ## 📜 Certificate
 
-- 
+https://github.com/SanthiyaBaskar/UI-UX-Design-Intro/upload/main
 
 ---
 
